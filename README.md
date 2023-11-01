@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imranahmed2230
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Front End and RPA UiPath.
-- 💞️ I’m looking to collaborate on Technical Problems
+- 🌱 I’m currently learning .NET Full Stack Development and RPA UiPath.
+- 💞️ I’m looking forward to contribute my interest and knowledge in IT environment
 - 📫 You can reach me through imran00.amsce@gmail.com
 
 <!---
